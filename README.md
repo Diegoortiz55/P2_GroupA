@@ -2,6 +2,7 @@
 Repository for Group A's P2 Project
 
 Update 7/19:
+
 by Jacob: Webpage Revisions (retroGameService.html)
 - Uploaded webpage formatting
 - Commented out tentative media features (can be added in the future)
