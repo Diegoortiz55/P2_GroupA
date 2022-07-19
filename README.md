@@ -10,7 +10,7 @@ by Jacob: Webpage Revisions (retroGameService.html)
 - Added individual game thumbnails
 - Added brief descriptions for each game 
 - Added Developer and Original Release Dates for each game
-- Masthead banner overall with sample titles
+- Changes made to the page banner with sample retro titles
 - Revised logo (will resize in the future)
 
 by Jacob: Webpage Assets
