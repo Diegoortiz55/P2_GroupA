@@ -11399,7 +11399,7 @@ header.masthead {
   padding-top: 10.5rem;
   padding-bottom: 6rem;
   text-align: center;
-  color: #fd7e14;
+  color: #ffc800;
   background-image: url("../assets/img/retroGameWallpaper.svg");
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -11710,8 +11710,8 @@ header.masthead .masthead-heading {
 
 section#contact {
   background-color: #212529;
-  background-image: url("../assets/img/map-image.png");
-  background-repeat: no-repeat;
+  background-image: url("../assets/img/mushroomKingdomMAP.svg");
+  background-repeat: repeat;
   background-position: center;
 }
 section#contact .section-heading {
