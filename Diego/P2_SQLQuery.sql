@@ -6,7 +6,7 @@ create table tbl_ProductInfo
     productGenre varchar(30) not null,
     productPlatform varchar(30) not null,
     productManufacturer varchar(30) not null,
-    productReleaseDate date,
+    productReleaseDate int,
     productCost money,
     productQty int,
     productIsInStock bit,
@@ -30,7 +30,7 @@ create table tbl_RegisterInfo
     lastName varchar(30) not null,
     stAddress varchar(40) not null,
     city varchar(20) not null,
-    customerState varchar (2),
+    customerState varchar (20),
     userPoints int,
     constraint pk_userName PRIMARY KEY(userName),
     constraint chk_userPwd_len check(len(userPassword) > 5),
@@ -77,3 +77,13 @@ create table tbl_ProductsPurchased
     constraint fk_productName2 foreign Key (productName) references tbl_ProductCostList (productName)
 )
 
+drop table tbl_ProductsPurchased
+drop table tbl_ProductCostList
+drop table tbl_OrdersInfo
+drop table tbl_CustomerContact
+drop table tbl_RegisterInfo
+drop table tbl_ProductRanking
+drop table tbl_ProductInfo
+
+select * from tbl_ProductInfo
+select * from tbl_RegisterInfo
