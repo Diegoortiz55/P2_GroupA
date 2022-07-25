@@ -1,0 +1,34 @@
+Video Game Store Functionality - Due Date: 27th July
+
+Minimum Requirements:
+	Home Page
+	4 more tabs (CRUD operations)
+
+Brainstormed Ideas:
+	Monthly Game/Collectible Ranking - allow user ranking inputs / comments 
+	Individual Game Information Pages with history of game, console, and perhaps links to rarity/worth info?
+	Checkout Page
+
+
+Potential Features:
+	Post/edit/delete comments and game rankings
+	Add/update/remove items from checkout page
+	Get individual game/collectible info
+	Search for games/collectibles?
+		Filter/Sort function? 
+	Potential LogIn for customers? 
+
+
+——————————————————————————————————————————————
+SQL Server: 
+
+Database = storeNameDB
+
+Tables: (in no particular order) - will require altering during normalization
+Table 1 = tbl_Products
+
+Table 2 = tbl_ProductRankings
+
+Table 3 = tbl_UserInfo
+
+Table 4 = tbl_Checkout
