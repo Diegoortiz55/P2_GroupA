@@ -11,7 +11,7 @@ create table tbl_ProductInfo
     productQty int,
     productIsInStock bit,
     constraint pk_productId PRIMARY KEY(productId),
-    constraint unk_productName UNIQUE(productName),
+    constraint unk_productName UNIQUE(productName)
 )
 
 create table tbl_ProductRanking
@@ -33,7 +33,7 @@ create table tbl_RegisterInfo
     customerState varchar (20),
     userPoints int,
     constraint pk_userName PRIMARY KEY(userName),
-    constraint chk_userPwd_len check(len(userPassword) > 5),
+    constraint chk_userPwd_len check(len(userPassword) > 5)
 )
 
 create table tbl_CustomerContact
@@ -43,11 +43,12 @@ create table tbl_CustomerContact
     contactNo int,
     constraint pk_userName2 PRIMARY KEY(userName),
     constraint fk_emailAddress foreign Key (emailAddress) references tbl_RegisterInfo (userName),
+    constraint unk_contactNo UNIQUE(contactNo)
 )
 
 create table tbl_OrdersInfo
 (
-    orderNo int,
+    orderNo int identity,
     orderName varchar(30) not null,
     orderPrice money not null,
     paymentType varchar(20) not null,

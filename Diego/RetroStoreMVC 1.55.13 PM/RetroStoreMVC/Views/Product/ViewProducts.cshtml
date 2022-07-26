@@ -1,0 +1,80 @@
+﻿@model IEnumerable<VideoGameStore2.Models.Product>
+
+@{
+    ViewData["Title"] = "ViewProducts";
+}
+
+<h1>View Products</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.productName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.productType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.productGenre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.productPlatform)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.productManufacturer)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.productReleaseDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.productCost)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.productQty)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.productIsInStock)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.productName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.productType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.productGenre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.productPlatform)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.productManufacturer)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.productReleaseDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.productCost)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.productQty)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.productIsInStock)
+            </td>
+            <!--<td>-->
+                @*<a asp-action="Edit" asp-route-id="@item.productId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.productId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.productId">Delete</a>*@
+            <!--</td>-->
+        </tr>
+}
+    </tbody>
+</table>
