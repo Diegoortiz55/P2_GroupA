@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OneDrive\\Programming\\Work\\repos\\VideoGameStore\\VideoGameStore\\VideoGameStore.csproj": {}
+    "D:\\OneDrive\\Work\\Group Project\\P2_GroupA\\Eric - Backend\\VideoGameStore\\VideoGameStore\\VideoGameStore.csproj": {}
   },
   "projects": {
-    "D:\\OneDrive\\Programming\\Work\\repos\\VideoGameStore\\VideoGameStore\\VideoGameStore.csproj": {
+    "D:\\OneDrive\\Work\\Group Project\\P2_GroupA\\Eric - Backend\\VideoGameStore\\VideoGameStore\\VideoGameStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OneDrive\\Programming\\Work\\repos\\VideoGameStore\\VideoGameStore\\VideoGameStore.csproj",
+        "projectUniqueName": "D:\\OneDrive\\Work\\Group Project\\P2_GroupA\\Eric - Backend\\VideoGameStore\\VideoGameStore\\VideoGameStore.csproj",
         "projectName": "VideoGameStore",
-        "projectPath": "D:\\OneDrive\\Programming\\Work\\repos\\VideoGameStore\\VideoGameStore\\VideoGameStore.csproj",
+        "projectPath": "D:\\OneDrive\\Work\\Group Project\\P2_GroupA\\Eric - Backend\\VideoGameStore\\VideoGameStore\\VideoGameStore.csproj",
         "packagesPath": "C:\\Users\\erics\\.nuget\\packages\\",
-        "outputPath": "D:\\OneDrive\\Programming\\Work\\repos\\VideoGameStore\\VideoGameStore\\obj\\",
+        "outputPath": "D:\\OneDrive\\Work\\Group Project\\P2_GroupA\\Eric - Backend\\VideoGameStore\\VideoGameStore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -48,6 +48,30 @@
               "target": "Package",
               "version": "[5.2.9, )"
             },
+            "Microsoft.AspNetCore.Authentication.Facebook": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.AspNetCore.Authentication.Google": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.AspNetCore.Authentication.OAuth": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.7, )"
@@ -63,8 +87,6 @@
               "version": "[6.0.7, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.7, )"
             },

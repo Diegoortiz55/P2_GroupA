@@ -1,10 +1,13 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using VideoGameStore.Models;
 
 namespace VideoGameStore.Controllers
 {
-    [Route("api/[controller]")]
+/*    [Route("api/[controller]")]
     [ApiController]
+*/
+    [Authorize] //user will need to identify themself on a login page to get access to actions in this controller
     public class SecurityController : Controller
     {
         StoreDBContext db = new StoreDBContext();
@@ -13,7 +16,6 @@ namespace VideoGameStore.Controllers
             ViewBag.response = "";
             return View();
         }
-        [HttpPost]
         public IActionResult Login(string username, string password)
         {
             var user = new AuthenticateUser();
