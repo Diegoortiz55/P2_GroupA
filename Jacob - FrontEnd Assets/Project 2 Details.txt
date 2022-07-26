@@ -1,0 +1,32 @@
+---------------------------------------------------------------------------------
+Project 2 Details (Project 3)
+---------------------------------------------------------------------------------
+
+ASP.Net MVC (which uses html, css, JQuery, Bootstrap)
+WebAPI using Entity Framework
+
+Group Project - 4 people per group
+
+Each group will decide on a topic or project
+---------------------------------------------------------------------------------
+Project will compose of online-authentication (oAuth) implementation
+	a. Login to website using Facebook or Google or Microsoft account login
+		i. Self-service profiles
+			a. User registration
+			b. Password recovery
+	b. Logging (seri Log)
+
+---------------------------------------------------------------------------------
+1. Web API with entity framework on SQL server - on Cloud
+2. ASP.Net MVC - UI (once creatred, it will be hosted on cloud)
+	a. will necessitate the use of HTML, CSS, JS, BootStrap 
+3. Logging - Seri Log
+
+Distribute the tasks evenly as possible among team members.
+---------------------------------------------------------------------------------
+Project examples:
+	i. Online Food ordering
+	ii. Online Cab booking service
+	iii. Flight ticket booking
+	iv. Hospital APP - patient management, appointment management
+
