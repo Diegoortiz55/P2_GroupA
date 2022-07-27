@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{3028485A-A678-4091-9069-DC5D9AFB507D}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RetroStoreMVC2/Views/Product/ViewProducts.cshtml">
+    <Files>
+      <File FileName="RetroStoreMVC2/Models/ProductModel.cs" Line="34" Column="1" />
+      <File FileName="RetroStoreMVC2/Views/Product/ViewProducts.cshtml" Line="7" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RetroStoreMVC2" expanded="True">
+            <Node name="RetroStoreMVC2" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Product" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.RetroStoreMVC2 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
