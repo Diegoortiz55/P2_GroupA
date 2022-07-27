@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/RetroStoreMVC2.csproj": {}
+    "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/RetroStoreMVC2.csproj": {}
   },
   "projects": {
-    "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/RetroStoreMVC2.csproj": {
+    "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/RetroStoreMVC2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/RetroStoreMVC2.csproj",
+        "projectUniqueName": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/RetroStoreMVC2.csproj",
         "projectName": "RetroStoreMVC2",
-        "projectPath": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/RetroStoreMVC2.csproj",
+        "projectPath": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/RetroStoreMVC2.csproj",
         "packagesPath": "/Users/diego/.nuget/packages/",
-        "outputPath": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/obj/",
+        "outputPath": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/diego/.nuget/NuGet/NuGet.Config"

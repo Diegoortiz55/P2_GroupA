@@ -17,7 +17,7 @@
 
 </head>
 <body id="page-top">
-    <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-black fixed-top" id="mainNav">
         <div class="container">
             @*<a class="navbar-brand" href="#page-top"><img src="assets/img/TeamLogo.svg" alt="..." /></a>*@
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
@@ -26,11 +26,20 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
-                    <li class="nav-item"><a class="nav-link bhl" asp-area="" asp-controller="Home" asp-action="Index">About Us</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#portfolio">Weekly Top 6</a></li>
-                    <li class="nav-item"><a class="nav-link" asp-area="" asp-controller="Product" asp-action="ViewProducts">Shop Select Titles</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#team">Our Team </a></li> 
+                    <li class="nav-item">
+                    <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index">About Us</a>
+                    </li>
+                    <li class="nav-item">
+                    <a class="nav-link" href="#portfolio">Weekly Top 6</a>
+                    </li>
+                    <li class="nav-item">
+                    <a class="nav-link" asp-area="" asp-controller="Product" asp-action="ViewProducts">Shop Select Titles</a>
+                    </li>
+                    <li class="nav-item">
+                    <a class="nav-link" href="#team">Our Team </a>
+                    </li>
                 </ul>
+                <partial name="_LoginPartial" />
             </div>
         </div>
     </nav>
@@ -41,7 +50,7 @@
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
+    <footer style="position:relative; bottom:0px" class="border-top footer text-muted">
         <div class="container">
             &copy; 2022 - RetroStoreMVC2 - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>

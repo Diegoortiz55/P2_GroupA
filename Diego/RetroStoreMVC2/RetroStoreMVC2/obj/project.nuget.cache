@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sgGnXi+k9VCBIY24p/mKb7o9ohST/qzhElzh9q6/NWO2enASdbhhrAxYDfsSVj35Msjnp3ujuPRHs0PgrqOrhw==",
+  "dgSpecHash": "DPZByGO74AsO+0t3WzpeWjDW4IpVNpEJGEApHSjJ+aoGm+t4r7R/FUVXskjxfT+9VxVKNS6vDw2LlfJzLo1sCA==",
   "success": true,
-  "projectFilePath": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/RetroStoreMVC2.csproj",
+  "projectFilePath": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/RetroStoreMVC2.csproj",
   "expectedPackageFiles": [
     "/Users/diego/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/diego/.nuget/packages/messagepack/2.1.152/messagepack.2.1.152.nupkg.sha512",
