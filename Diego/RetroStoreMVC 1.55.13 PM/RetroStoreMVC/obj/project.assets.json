@@ -10577,24 +10577,26 @@
     ]
   },
   "packageFolders": {
-    "/Users/diego/.nuget/packages/": {}
+    "C:\\Users\\Jacob T.L\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC 1.55.13 PM/RetroStoreMVC/RetroStoreMVC.csproj",
+      "projectUniqueName": "C:\\Users\\Jacob T.L\\Desktop\\P2_GroupA\\Diego\\RetroStoreMVC 1.55.13 PM\\RetroStoreMVC\\RetroStoreMVC.csproj",
       "projectName": "RetroStoreMVC",
-      "projectPath": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC 1.55.13 PM/RetroStoreMVC/RetroStoreMVC.csproj",
-      "packagesPath": "/Users/diego/.nuget/packages/",
-      "outputPath": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC 1.55.13 PM/RetroStoreMVC/obj/",
+      "projectPath": "C:\\Users\\Jacob T.L\\Desktop\\P2_GroupA\\Diego\\RetroStoreMVC 1.55.13 PM\\RetroStoreMVC\\RetroStoreMVC.csproj",
+      "packagesPath": "C:\\Users\\Jacob T.L\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jacob T.L\\Desktop\\P2_GroupA\\Diego\\RetroStoreMVC 1.55.13 PM\\RetroStoreMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/diego/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Jacob T.L\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -10686,7 +10688,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
