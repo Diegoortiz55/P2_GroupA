@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qMxUxM4TD2ESAvrsFYPoyLPcln6mLCUtROVJEjX7i8I=",
+  "Hash": "1mrpMidloB6C4DHbCLwI581PP0lJqcYoW7m/yhedp0w=",
   "Source": "RetroStoreMVC2",
   "BasePath": "_content/RetroStoreMVC2",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "RetroStoreMVC2/wwwroot",
       "Source": "RetroStoreMVC2",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "Pattern": "**"
     }
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "/Users/diego/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.7/staticwebassets/V5/lib/jquery/LICENSE.txt"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/obj/Debug/net6.0/scopedcss/bundle/RetroStoreMVC2.styles.css",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/obj/Debug/net6.0/scopedcss/bundle/RetroStoreMVC2.styles.css",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/obj/Debug/net6.0/scopedcss/bundle/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/obj/Debug/net6.0/scopedcss/bundle/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "RetroStoreMVC2.styles.css",
       "AssetKind": "All",
@@ -1051,13 +1051,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/obj/Debug/net6.0/scopedcss/bundle/RetroStoreMVC2.styles.css"
+      "OriginalItemSpec": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/obj/Debug/net6.0/scopedcss/bundle/RetroStoreMVC2.styles.css"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/obj/Debug/net6.0/scopedcss/projectbundle/RetroStoreMVC2.bundle.scp.css",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/obj/Debug/net6.0/scopedcss/projectbundle/RetroStoreMVC2.bundle.scp.css",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/obj/Debug/net6.0/scopedcss/projectbundle/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/obj/Debug/net6.0/scopedcss/projectbundle/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "RetroStoreMVC2.bundle.scp.css",
       "AssetKind": "All",
@@ -1068,13 +1068,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/obj/Debug/net6.0/scopedcss/projectbundle/RetroStoreMVC2.bundle.scp.css"
+      "OriginalItemSpec": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/obj/Debug/net6.0/scopedcss/projectbundle/RetroStoreMVC2.bundle.scp.css"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/.DS_Store",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/.DS_Store",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": ".DS_Store",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot/.DS_Store"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/.DS_Store",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/.DS_Store",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/.DS_Store",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot/assets/.DS_Store"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/8bitemporiumlgoo.jpg",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/8bitemporiumlgoo.jpg",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/8bitemporiumlgoo.jpg",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/8bitemporiumlgoo.jpg"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/8BitEmporiumLogo.png",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/8BitEmporiumLogo.png",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/8BitEmporiumLogo.png",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/8BitEmporiumLogo.png"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/about/aboutUsLogo.png",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/about/aboutUsLogo.png",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/about/aboutUsLogo.png",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/about/aboutUsLogo.png"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/about/aboutUsLogorev.png",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/about/aboutUsLogorev.png",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/about/aboutUsLogorev.png",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/about/aboutUsLogorev.png"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/about/ff7Cover.svg",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/about/ff7Cover.svg",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/about/ff7Cover.svg",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/about/ff7Cover.svg"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/about/metroidCover.svg",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/about/metroidCover.svg",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/about/metroidCover.svg",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/about/metroidCover.svg"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/about/sonicCover.svg",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/about/sonicCover.svg",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/about/sonicCover.svg",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/about/sonicCover.svg"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/about/spaceInvadersCover.svg",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/about/spaceInvadersCover.svg",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/about/spaceInvadersCover.svg",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/about/spaceInvadersCover.svg"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/about/superMarioCover.svg",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/about/superMarioCover.svg",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/about/superMarioCover.svg",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/about/superMarioCover.svg"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/about/zeldaCover.svg",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/about/zeldaCover.svg",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/about/zeldaCover.svg",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/about/zeldaCover.svg"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/aboutUsLogo.png",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/aboutUsLogo.png",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/aboutUsLogo.png",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/aboutUsLogo.png"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/close-icon.svg",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/close-icon.svg",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/close-icon.svg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/close-icon.svg"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/diegoTeamIMG.png",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/diegoTeamIMG.png",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/diegoTeamIMG.png",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/diegoTeamIMG.png"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/edwardTeamIMG.png",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/edwardTeamIMG.png",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/edwardTeamIMG.png",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/edwardTeamIMG.png"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/ericTeamIMG.png",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/ericTeamIMG.png",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/ericTeamIMG.png",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/ericTeamIMG.png"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/getStartedLogo.png",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/getStartedLogo.png",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/getStartedLogo.png",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/getStartedLogo.png"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/jacobTeamIMG.png",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/jacobTeamIMG.png",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/jacobTeamIMG.png",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/jacobTeamIMG.png"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/logos/CSharpLogoPJ.png",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/logos/CSharpLogoPJ.png",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/logos/CSharpLogoPJ.png",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/logos/CSharpLogoPJ.png"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/logos/CSharpLogoPJ.svg",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/logos/CSharpLogoPJ.svg",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/logos/CSharpLogoPJ.svg",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/logos/CSharpLogoPJ.svg"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/logos/MSVSLogoPJ.png",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/logos/MSVSLogoPJ.png",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/logos/MSVSLogoPJ.png",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/logos/MSVSLogoPJ.png"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/logos/MSVSLogoPJ.svg",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/logos/MSVSLogoPJ.svg",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/logos/MSVSLogoPJ.svg",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/logos/MSVSLogoPJ.svg"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/logos/RevatureLogoPJ.png",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/logos/RevatureLogoPJ.png",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/logos/RevatureLogoPJ.png",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/logos/RevatureLogoPJ.png"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/logos/RevatureLogoPJ.svg",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/logos/RevatureLogoPJ.svg",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/logos/RevatureLogoPJ.svg",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/logos/RevatureLogoPJ.svg"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/logos/SQLServerLogoPJ.png",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/logos/SQLServerLogoPJ.png",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/logos/SQLServerLogoPJ.png",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/logos/SQLServerLogoPJ.png"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/logos/SQLServerLogoPJ.svg",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/logos/SQLServerLogoPJ.svg",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/logos/SQLServerLogoPJ.svg",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/logos/SQLServerLogoPJ.svg"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/map-image.png",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/map-image.png",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/map-image.png",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/map-image.png"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/mortalkombatProductIMG.png",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/mortalkombatProductIMG.png",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/mortalkombatProductIMG.png",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/mortalkombatProductIMG.png"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/mushroomKingdomMAP.png",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/mushroomKingdomMAP.png",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/mushroomKingdomMAP.png",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/mushroomKingdomMAP.png"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/mushroomKingdomMAP.svg",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/mushroomKingdomMAP.svg",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/mushroomKingdomMAP.svg",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/mushroomKingdomMAP.svg"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/portfolio/castvaniaLogo.png",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/portfolio/castvaniaLogo.png",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/portfolio/castvaniaLogo.png",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/portfolio/castvaniaLogo.png"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/portfolio/diegoTeamIMG_base.png",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/portfolio/diegoTeamIMG_base.png",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/portfolio/diegoTeamIMG_base.png",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/portfolio/diegoTeamIMG_base.png"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/portfolio/donkeyKongLogo.png",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/portfolio/donkeyKongLogo.png",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/portfolio/donkeyKongLogo.png",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/portfolio/donkeyKongLogo.png"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/portfolio/edwardTeamIMG_base.png",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/portfolio/edwardTeamIMG_base.png",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/portfolio/edwardTeamIMG_base.png",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/portfolio/edwardTeamIMG_base.png"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/portfolio/ericTeam_base.png",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/portfolio/ericTeam_base.png",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/portfolio/ericTeam_base.png",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/portfolio/ericTeam_base.png"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/portfolio/ff7Cover.png",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/portfolio/ff7Cover.png",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/portfolio/ff7Cover.png",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/portfolio/ff7Cover.png"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/portfolio/ff7Cover.svg",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/portfolio/ff7Cover.svg",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/portfolio/ff7Cover.svg",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/portfolio/ff7Cover.svg"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/portfolio/jacobTeamIMG_base.png",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/portfolio/jacobTeamIMG_base.png",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/portfolio/jacobTeamIMG_base.png",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/portfolio/jacobTeamIMG_base.png"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/portfolio/metroidCover.png",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/portfolio/metroidCover.png",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/portfolio/metroidCover.png",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/portfolio/metroidCover.png"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/portfolio/metroidCover.svg",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/portfolio/metroidCover.svg",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/portfolio/metroidCover.svg",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/portfolio/metroidCover.svg"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/portfolio/mortalkombatCover.svg",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/portfolio/mortalkombatCover.svg",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/portfolio/mortalkombatCover.svg",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/portfolio/mortalkombatCover.svg"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/portfolio/sonicCover.png",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/portfolio/sonicCover.png",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/portfolio/sonicCover.png",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/portfolio/sonicCover.png"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/portfolio/sonicCover.svg",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/portfolio/sonicCover.svg",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/portfolio/sonicCover.svg",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/portfolio/sonicCover.svg"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/portfolio/spaceInvadersCover.png",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/portfolio/spaceInvadersCover.png",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/portfolio/spaceInvadersCover.png",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/portfolio/spaceInvadersCover.png"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/portfolio/spaceInvadersCover.svg",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/portfolio/spaceInvadersCover.svg",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/portfolio/spaceInvadersCover.svg",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/portfolio/spaceInvadersCover.svg"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/portfolio/streetFighterLogo.png",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/portfolio/streetFighterLogo.png",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/portfolio/streetFighterLogo.png",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/portfolio/streetFighterLogo.png"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/portfolio/superMarioCover.png",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/portfolio/superMarioCover.png",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/portfolio/superMarioCover.png",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/portfolio/superMarioCover.png"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/portfolio/superMarioCover.svg",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/portfolio/superMarioCover.svg",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/portfolio/superMarioCover.svg",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/portfolio/superMarioCover.svg"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/portfolio/superMarioLogo.png",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/portfolio/superMarioLogo.png",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/portfolio/superMarioLogo.png",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/portfolio/superMarioLogo.png"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/portfolio/tetrisLogo.png",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/portfolio/tetrisLogo.png",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/portfolio/tetrisLogo.png",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/portfolio/tetrisLogo.png"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/portfolio/zeldaCover.png",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/portfolio/zeldaCover.png",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/portfolio/zeldaCover.png",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/portfolio/zeldaCover.png"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/portfolio/zeldaCover.svg",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/portfolio/zeldaCover.svg",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/portfolio/zeldaCover.svg",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/portfolio/zeldaCover.svg"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/retroGameExplorationLogo.png",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/retroGameExplorationLogo.png",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/retroGameExplorationLogo.png",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/retroGameExplorationLogo.png"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/retroGameWallpaper.jpg",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/retroGameWallpaper.jpg",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/retroGameWallpaper.jpg",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/retroGameWallpaper.jpg"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/retroGameWallpaper.svg",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/retroGameWallpaper.svg",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/retroGameWallpaper.svg",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/retroGameWallpaper.svg"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/retroGameWallpaperExample.png",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/retroGameWallpaperExample.png",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/retroGameWallpaperExample.png",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/retroGameWallpaperExample.png"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/retroGameWallpaperExample.svg",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/retroGameWallpaperExample.svg",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/retroGameWallpaperExample.svg",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/retroGameWallpaperExample.svg"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/team/diegoTeamIMG.png",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/team/diegoTeamIMG.png",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/team/diegoTeamIMG.png",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/team/diegoTeamIMG.png"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/team/edwardTeamIMG.png",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/team/edwardTeamIMG.png",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/team/edwardTeamIMG.png",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/team/edwardTeamIMG.png"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/team/ericTeamIMG.png",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/team/ericTeamIMG.png",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/team/ericTeamIMG.png",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/team/ericTeamIMG.png"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/team/jacobTeamIMG.png",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/team/jacobTeamIMG.png",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/team/jacobTeamIMG.png",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/team/jacobTeamIMG.png"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/TeamLogo.svg",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/TeamLogo.svg",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/TeamLogo.svg",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/TeamLogo.svg"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/userRegisterWallpaper.png",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/userRegisterWallpaper.png",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/userRegisterWallpaper.png",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/userRegisterWallpaper.png"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/userRegisterWallpaper.svg",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/img/userRegisterWallpaper.svg",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/img/userRegisterWallpaper.svg",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot/assets/img/userRegisterWallpaper.svg"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/spaceInvadersCover.png",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/assets/spaceInvadersCover.png",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "assets/spaceInvadersCover.png",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot/assets/spaceInvadersCover.png"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/css/.DS_Store",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/css/.DS_Store",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "css/.DS_Store",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot/css/.DS_Store"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/css/styles.css",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/css/styles.css",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "css/styles.css",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot/css/styles.css"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/favicon.ico",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/favicon.ico",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/js/.DS_Store",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/js/.DS_Store",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "js/.DS_Store",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot/js/.DS_Store"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/js/scripts.js",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/js/scripts.js",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "js/scripts.js",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot/js/scripts.js"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2652,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2669,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2686,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -2703,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -2720,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2737,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2754,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -2771,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -2788,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -2805,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -2822,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2839,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2856,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2873,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2890,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2907,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2941,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2958,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2975,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2992,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -3009,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -3026,10 +3026,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/LICENSE",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/bootstrap/LICENSE",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -3043,10 +3043,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -3060,10 +3060,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -3077,10 +3077,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -3094,10 +3094,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -3111,10 +3111,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -3128,10 +3128,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -3145,10 +3145,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -3162,10 +3162,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/jquery-validation/LICENSE.md",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -3179,10 +3179,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/jquery/dist/jquery.js",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/jquery/dist/jquery.js",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -3196,10 +3196,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/jquery/dist/jquery.min.js",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -3213,10 +3213,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/jquery/dist/jquery.min.map",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -3230,10 +3230,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Identity": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/jquery/LICENSE.txt",
+      "Identity": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/lib/jquery/LICENSE.txt",
       "SourceId": "RetroStoreMVC2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/diego/Library/Mobile Documents/com~apple~CloudDocs/Revature Projects/P2_GroupA_Copy/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
+      "ContentRoot": "/Users/diego/Desktop/P2_GroupA/Diego/RetroStoreMVC2/RetroStoreMVC2/wwwroot/",
       "BasePath": "_content/RetroStoreMVC2",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
