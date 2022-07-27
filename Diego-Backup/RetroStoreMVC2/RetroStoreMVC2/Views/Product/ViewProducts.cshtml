@@ -1,0 +1,45 @@
+﻿@*@model IEnumerable<RetroStoreMVC2.Models.ProductModel>*@
+
+@{
+    ViewData["Title"] = "ViewProducts";
+}
+
+<script> 
+    function getProducts()
+    {
+        fetch('https://localhost:7102/api/Product')
+            .then(resp => resp.json())
+            .then(result =>
+                @*console.log(result);*@
+        {
+            for (i = 0; i < result.length; i++)
+            {
+                $("table").append("<tr>" +
+                    "<td>" + result[i].productId + "</td>" +
+                    "<td>" + result[i].productName + "<td>" +
+                    "<td>" + result[i].productType + "</td>" +
+                    "<td>" + result[i].productGenre + "</td>" +
+                    "<td>" + result[i].productPlatform + "</td>" +
+                    "<td>" + result[i].productManufacturer + "</td>" +
+                    "<td>" + result[i].productReleaseDate + "</td>" +
+                    "<td>" + result[i].productCost + "</td>" +
+                    "<td>" + result[i].productQty + "</td>" +
+                    "<td>" + result[i].productIsInStock + "</td>" +
+                    "</tr>")
+            }
+        }).
+        catch(err => {
+            alert('Errorrr');
+        })
+    }
+
+</script>
+
+
+<body>
+    <div style="position:relative; top:100px">
+        <button class="btn btn-warning" onclick="getProducts()"> Search All Games</button>
+    </div>
+    <table style="position:relative; top:110px" class="table table-bordered"> </table>
+</body>
+
